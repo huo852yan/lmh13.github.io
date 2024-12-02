@@ -142,6 +142,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: "CLIPRefiner: Enhancing Realism and Detail in Free-Hand Sketches through Semantically-Aware Optimization"
+    results: /assets/media/images/cliprefiner.png
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     # date: '2023-11-25'
     # awarder: Coursera
