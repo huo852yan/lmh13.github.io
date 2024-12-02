@@ -144,11 +144,12 @@ awards:
   - title: "CLIPRefiner: Enhancing Realism and Detail in Free-Hand Sketches through Semantically-Aware Optimization"
     # results: /assets/media/images/cliprefiner.png
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    # date: '2023-11-25'
+    date: '2023-08-01'
     # awarder: Coursera
     # icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      ![CLIPRefiner](assets/media/images/cliprefiner.png)
+      Free-hand sketches are a fundamental tool for individuals to translate their internal perceptions of the world, bridging the gap between the abstract and the concrete. However, not everyone possesses the innate ability to convey their ideas through sketches, often resulting in sketches with certain limitations.  This study introduces CLIPRefiner, an innovative method that harnesses a pre-trained CLIP model to transform rough sketches from various categories into polished renditions. 
 #   - title: Blockchain Fundamentals
 #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #     date: '2023-07-01'
