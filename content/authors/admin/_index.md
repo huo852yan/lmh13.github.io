@@ -148,7 +148,7 @@ awards:
     # awarder: Coursera
     # icon: coursera
     summary: |
-      {{< figure src="/assets/media/images/cliprefiner.png" title="CLIPRefiner" >}}
+      {{< figure src="/workspaces/lmh13.github.io/assets/media/images/cliprefiner.png" title="CLIPRefiner" >}}
       Free-hand sketches are a fundamental tool for individuals to translate their internal perceptions of the world, bridging the gap between the abstract and the concrete. However, not everyone possesses the innate ability to convey their ideas through sketches, often resulting in sketches with certain limitations.  This study introduces CLIPRefiner, an innovative method that harnesses a pre-trained CLIP model to transform rough sketches from various categories into polished renditions. 
 #   - title: Blockchain Fundamentals
 #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
