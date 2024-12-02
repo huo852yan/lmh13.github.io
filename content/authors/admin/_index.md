@@ -43,7 +43,7 @@ education:
   - area: PhD Artificial Intelligence
     institution: University of Chinese Academy of Sciences
     date_start: 2022-09-01
-    date_end: 2025-06-31
+    date_end: 2025-06-30
     summary: |
       Thesis on _Research on multimodal controllable image generation based on deep learning_.
     button:
